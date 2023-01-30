@@ -41,7 +41,7 @@ public class ShirtTest {
 
 3. Результати роботи стартового коду -
 
-![](https://github.com)
+![](https://github.com/ppc-ntu-khpi/java-0-MargoBB/blob/main/Solution/1.png)
 
 ## Завдання №2. Внесення змін до стартового коду
 
@@ -70,7 +70,7 @@ public class Shirt {
 
 2. Результати працюючого коду -
 
-![](https://github.com)
+![](https://github.com/ppc-ntu-khpi/java-0-MargoBB/blob/main/Solution/2.png)
 
 ## Завдання №3. Додаткове завдання
 
@@ -99,5 +99,5 @@ public class Shirt {
 
 2. Результати працюючого коду -
 
-![](https://github.com)
+![](https://github.com/ppc-ntu-khpi/java-0-MargoBB/blob/main/Solution/3.png)
 
