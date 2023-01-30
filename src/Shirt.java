@@ -1,11 +1,10 @@
 public class Shirt {
-  public int shirtID = 0;
-  public String description = "-description required-";
 
-  public char colorCode = 'U';
-  public double price = 0.0;
+  public int shirtID = 15;
+  public String description = "Really cool crimson T-shirt!";
+  public String colorCode = "Crimson";
+  public double price = 50.7;
   public int quantityInStock = 0;
-  
  
   public void displayShirtInformation() {
     System.out.println("Shirt ID: " + shirtID);
