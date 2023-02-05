@@ -4,7 +4,7 @@
 
 1. Код програми **"Shirt.java"** -
 
-```
+````java
 
 public class Shirt {
 
@@ -23,11 +23,11 @@ public class Shirt {
   }
 }
 
-```
+````
 
 2. Код програми **"ShirtTest.java"** -
 
-```
+````java
 
 public class ShirtTest {
 
@@ -37,7 +37,7 @@ public class ShirtTest {
     }
 }
 
-```
+````
 
 3. Результати роботи стартового коду -
 
@@ -47,7 +47,7 @@ public class ShirtTest {
 
 1. У програмі **"Shirt.java"** змінимо номер сорочки, її опис та вартість довільними значеннями -
 
-```
+````java
 
 public class Shirt {
 
@@ -66,7 +66,7 @@ public class Shirt {
   }
 }
 
-```
+````
 
 2. Результати працюючого коду -
 
@@ -76,7 +76,7 @@ public class Shirt {
 
 1. Змінити код так, щоб колір сорочки зберігався та виводився у вигляді рядка -
 
-```
+````java
 
 public class Shirt {
 
@@ -95,7 +95,7 @@ public class Shirt {
   }
 }
 
-```
+````
 
 2. Результати працюючого коду -
 
